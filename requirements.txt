@@ -1,0 +1,5 @@
+torch>=2.0.0
+diffusers>=0.30.0
+transformers>=4.37.0
+Pillow>=9.0.0
+min-dalle @ git+https://github.com/kuprel/min-dalle.git
