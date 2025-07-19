@@ -20,7 +20,7 @@ This repository contains Python scripts to generate images using popular pre-tra
 ### Installation
 
 1.  **Clone the repository:**
-    git clone [https://github.com/MannAhalpara/AI_Image_Generator.git](https://github.com/MannAhalpara/AI_Image_Generator.git)
+    git clone [https://github.com/MannAhalpara/AI_Image_Generator.git](https://github.com/MannAhalpara/AI_Image_Generator.git).
     cd AI_Image_Generator
 
 3.  **Install dependencies:**
